@@ -1,16 +1,13 @@
-### Hi there 👋
+# Amani Atiah 
+## Full Stack Developer
 
-<!--
-**AmaniAtiah/AmaniAtiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+Experienced Full Stack Developer with a passion for creating efficient, scalable, and user-friendly web applications. I enjoy working with cutting-edge technologies and collaborating with cross-functional teams to deliver high-quality software solutions.
 
-Here are some ideas to get you started:
+### Skills
+Frontend: HTML5, CSS3, JavaScript (ES6+), React.js, Angular
+Backend: Node.js, Express.js, ASP.NET
+Databases: MySQL, PostgreSQL
+Other: RESTful APIs, JWT Authentication
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
