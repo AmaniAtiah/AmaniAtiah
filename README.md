@@ -10,4 +10,10 @@ Experienced Full Stack Developer with a passion for creating efficient, scalable
 * Databases: MySQL, PostgreSQL
 * Other: RESTful APIs, JWT Authentication
 
+### Contact
+* Email: amaniatiah@gmmail.com
+* LinkedIn: https://www.linkedin.com/in/amani-atiah-9a7891160/
+* GitHub: https://github.com/amaniatiah
+
+
 
